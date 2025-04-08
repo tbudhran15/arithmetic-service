@@ -1,0 +1,1 @@
+docker build -t $AZURE_CONTAINER_REGISTRY/arithmetic-service:latest .
